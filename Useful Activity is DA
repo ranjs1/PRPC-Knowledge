@@ -1,0 +1,6 @@
+ResolveWorkObjects - This Activity is created to Resolve all WOs
+Pass Parameter InstanceClassName
+InstancesLimit 0
+CreatedBefore
+ResolveStatus Resolved-ForceClose
+AuditNote  Closing All open ESU Via Activity ResolveWorkAobjects
