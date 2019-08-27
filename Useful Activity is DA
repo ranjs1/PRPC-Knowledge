@@ -4,3 +4,9 @@ InstancesLimit 0
 CreatedBefore
 ResolveStatus Resolved-ForceClose
 AuditNote  Closing All open ESU Via Activity ResolveWorkAobjects
+
+
+
+After Updgrade recompile Libraries
+APIUtils • getXMLPathNodeText
+
